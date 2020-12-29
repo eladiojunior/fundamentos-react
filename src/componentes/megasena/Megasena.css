@@ -1,0 +1,19 @@
+.megasena .bolas {
+    border: 1px solid #1ab1cd;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.megasena .bola {
+    height: 25px;
+    width: 25px;
+    border: 2px solid #025b6b;
+    color: aliceblue;
+    background-color: #1ab1cd;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px;
+    padding: 3px 2px 0px 2px;
+    font-size: 13px;
+}

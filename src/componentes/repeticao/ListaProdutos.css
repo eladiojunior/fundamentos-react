@@ -1,0 +1,12 @@
+.lista-produtos table {
+    width: 100%;
+}
+.lista-produtos th {
+    background-color: aquamarine;
+}
+.lista-produtos tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+.lista-produtos .preco {
+    text-align: right;
+}

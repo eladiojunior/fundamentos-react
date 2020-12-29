@@ -1,0 +1,25 @@
+const lista = [
+    { id: 1, tipo: 'Placa mãe', descricao: 'Asus para AMD', preco: '179.00' },
+    { id: 2, tipo: 'Placa mãe', descricao: 'Asus para Intel', preco: '189.00' },
+    { id: 3, tipo: 'Placa mãe', descricao: 'Gigabyte para AMD', preco: '170.00' },
+    { id: 4, tipo: 'Placa mãe', descricao: 'Gigabyte para Intel', preco: '345.00' },
+    { id: 5, tipo: 'Placa mãe', descricao: 'ECS Black Series para AMD', preco: '129.00' },
+    { id: 6, tipo: 'Placa mãe', descricao: 'ECS Black Series para Intel', preco: '640.00' },
+    { id: 7, tipo: 'Processador', descricao: 'AMD Athon 64 X2 – Socket AM2+ ', preco: '162.00' },
+    { id: 8, tipo: 'Processador', descricao: 'Phenom 2 – Socket AM2+ / AM3 ', preco: '240.00' },
+    { id: 9, tipo: 'Processador', descricao: 'Intel Core dois duo – Socket 775', preco: '345.00' },
+    { id: 10, tipo: 'Processador', descricao: 'Intel Quad core – Socket 775', preco: '230.00' },
+    { id: 11, tipo: 'Memória RAM', descricao: 'Kingston DDR2 – 1Gb', preco: '50.00' },
+    { id: 12, tipo: 'Memória RAM', descricao: 'Kingston DDR2 – 2Gb', preco: '80.00' },
+    { id: 13, tipo: 'Memória RAM', descricao: 'Corsair DDR2 – 2Gb', preco: '100.00' },
+    { id: 14, tipo: 'Placa de vídeo', descricao: 'ATI Radeon 512Mb – DDR3', preco: '500.00' },
+    { id: 15, tipo: 'Placa de vídeo', descricao: 'ATI Radeon 512Bb – DDR5', preco: '650.00' },
+    { id: 16, tipo: 'Placa de vídeo', descricao: 'Nvidia 512Mb – DDR3', preco: '600.00' },
+    { id: 17, tipo: 'HD', descricao: 'Sansung 500Gb', preco: '170.00' },
+    { id: 18, tipo: 'HD', descricao: 'Sansung 1Tb', preco: '370.00' },
+    { id: 19, tipo: 'Gravador de DVD', descricao: 'Sansung – SATA', preco: '100.00' },
+    { id: 20, tipo: 'Gravador de Blu-ray', descricao: 'LG – SATA', preco: '700.00' },
+    { id: 21, tipo: 'Fonte', descricao: '550w Real – 85% de eficiência', preco: '390.00' },
+    { id: 22, tipo: 'Fonte', descricao: '390w', preco: '100.00' }
+]
+export default lista;
